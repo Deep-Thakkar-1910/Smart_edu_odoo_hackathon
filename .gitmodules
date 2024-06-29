@@ -1,0 +1,6 @@
+[submodule "Smart_edu_odoo_hackathon_backend"]
+	path = Smart_edu_odoo_hackathon_backend
+	url = https://github.com/Deep-Thakkar-1910/Smart_edu_odoo_hackathon_backend.git
+[submodule "Smart_edu_odoo_hackathon_frontend"]
+	path = Smart_edu_odoo_hackathon_frontend
+	url = https://github.com/Deep-Thakkar-1910/Smart_edu_odoo_hackathon_frontend.git
